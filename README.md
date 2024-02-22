@@ -2,7 +2,7 @@
 
 <p>
   Este projeto é dedicado a pratica e avaliação final do módulo Framework de Front End em React. <br />
-  Ministrada pelos professores <a href="roosevelt.franklin81@gmail.com">Roosevelt Carvalho Franklin Santos</a> e <a href="mailto:virmerson.dev@gmail.com">Virmerson Bento dos Santos</a>. <br />
+  Ministrada pelos professores <a href="roosevelt.franklin81@gmail.com">Roosevelt Carvalho Franklin Santos</a> e <a href="mailto:railantb@gmail.com">Railan Teixeira Barbosa</a>. <br />
   Ada - Front End Estático - Start Coding - Turma 1025 - Grupo 04 <br />
 </p>
 
