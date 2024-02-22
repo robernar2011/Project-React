@@ -1,56 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&family=Lato:wght@300&family=Open+Sans:wght@300&display=swap'); 
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-.header {
-  background-color: #7F4AA4; /* Cor de fundo do cabeçalho */
-  color: white; /* Cor do texto do cabeçalho */
-  padding: 10px 0;
-  height: 120px;
-}
-
-.menu {
-  list-style-type: none;
-  /* margin: 0;
-  padding: 0; */
-  display: flex;
-}
-
-.menu li {
-  margin-right: 15px;
-}
-
-.menu a {
-  text-decoration: none;
-  color: #FBEE0F;
-}
-
-.logo-content {
-  flex-grow: 1;
-}
-
-.logo {
-  max-width: 100%;
-  height: 100px;
-}
-
-.body {
+body {
   width: 100%;
   min-height: calc(100vh - 240px);
-}
-
-.footer {
-  background-color: #7F4AA4; /* Cor de fundo do rodapé */
-  color: white; /* Cor do texto do rodapé */
-  width: 100%;
-  padding-top: 45px;
-  padding-left: 15px;
-  height: 300px;
-  align-items: center;
-  
-}
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  background-color: antiquewhite
+  }
 
 .slogan {
   font-style: italic;

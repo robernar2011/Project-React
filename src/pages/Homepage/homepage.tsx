@@ -1,13 +1,15 @@
-import Footer from "../../assets/components/Footer/footer"
-import Header from "../../assets/components/Header/header"
+import Footer from "../../components/components/Footer/footer"
+import Header from "../../components/components/Header/header"
+import { Container, Title } from "./homepage.styles"
 
 function Homepage() {
     return (
         <>
         <Header/>
-        <div className="body">
-        <h1>Bem Vindxs ao Instituto G4</h1>
-        </div>
+        <Container>
+        <Title>Bem Vindxs ao Instituto G4</Title>
+        
+        </Container>
         <Footer/>
         </>
     )
