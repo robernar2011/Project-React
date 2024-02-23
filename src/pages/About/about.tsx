@@ -1,18 +1,18 @@
 
 import Footer from "../../components/components/Footer/footer"
 import Header from "../../components/components/Header/header"
-import { Container } from "./contact.styles"
+import { Container } from "./about.styles"
 
-function Contact() {
+function About() {
     return (
         <>
         <Header/>
         <Container>
-        <h1>Formulário de contato aqui</h1>
+        <h1>Sobre nós</h1>
         </Container>
         <Footer/>
         </>
     )
 }
 
-export default Contact
+export default About
