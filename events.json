@@ -1,0 +1,58 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "titulo": "Dia das crianças",
+      "data": "12/10/2023",
+      "horario": "12:00",
+      "preco": 10,
+      "url_da_imagem": "https://www.rodolfofernandes.rn.gov.br/fotos/173/Capa173.png",
+      "evento_privado": false
+    },
+    {
+      "id": "2",
+      "titulo": "Natal Beneficente",
+      "data": "25/12/2023",
+      "horario": "20:00",
+      "preco": 0,
+      "url_da_imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuboprsgdPxi936tvymt4QHaLUwNLlq-Hj_Mny9HQPBMNzLmcJ",
+      "evento_privado": false
+    },
+    {
+      "id": "3",
+      "titulo": "Colônia de férias",
+      "data": "10/01/2024",
+      "horario": "14:00",
+      "preco": 50,
+      "url_da_imagem": "https://www.unifebe.edu.br/site/wp-content/uploads/projeto-de-pedagogia-desenvolve-propostas-de-alfabetizacao-e-letramento-projeto-de-pedagogia-desenvolve-propostas-de-alfabetizacao-e-letramento.jpg",
+      "evento_privado": true
+    }
+  ],
+  "user": [
+    {
+      "nome": "Andreia",
+      "email": "deia@deia.com",
+      "senha": "123456"
+    },
+    {
+      "nome": "Carolina",
+      "email": "carol@carol.com",
+      "senha": "123456"
+    },
+    {
+      "nome": "Gabriel",
+      "email": "gabriel@gabriel",
+      "senha": "123456"
+    },
+    {
+      "nome": "Karolina",
+      "email": "karol@karol",
+      "senha": "123456"
+    },
+    {
+      "nome": "Ronaldo",
+      "email": "ronaldo@ronaldo.com",
+      "senha": "123456"
+    }
+  ]
+}

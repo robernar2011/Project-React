@@ -14,10 +14,11 @@ export const Title = styled.h1`
     color: #1F0049;
 `
 
-export const Eventos = styled.div`
+export const Events = styled.div`
    
 `
-export const EventosLista = styled.ul`
+
+export const EventsLista = styled.ul`
     display: flex;
     flex-direction: row;
     gap: 10px;

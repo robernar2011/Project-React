@@ -5,17 +5,19 @@ import Login from "./pages/Login/login.tsx";
 import Contact from "./pages/Contact/contact.tsx";
 import About from "./pages/About/about.tsx";
 import History from "./pages/History/history.tsx";
+import InfosEvent from "./pages/InfosEvent/infosEvent.tsx";
 
 function App() {
   return (
     <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Login />} />
-        <Route path="/homepage" element={<Homepage />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/history" element={<History />} />
-      </Routes>
+     <Routes>
+      <Route path="/homepage" element={<Homepage/>}/>
+      <Route path="/login" element={<Login/>}/>
+      <Route path="/contact" element={<Contact/>}/>
+      <Route path="/about" element={<About/>}/>
+      <Route path="/history" element={<History/>}/>
+      <Route path="/event/:id" element={<InfosEvent/>}/>
+     </Routes>
     </BrowserRouter>
   );
 }
