@@ -1,0 +1,52 @@
+{
+    "eventos": [
+        {
+            "titulo": "Bailinho de Carnaval",
+            "data": "10/02/2024",
+            "horario": "16:00",
+            "preco": 20,
+            "url_imagem": "https://www.instagram.com/logo.png"
+        },
+        {
+            "titulo": "Concurso de Fantasias",
+            "data": "11/02/2024",
+            "horario": "20:00",
+            "preco": 30,
+            "url_imagem": "https://www.instagram.com/logo-xpto.png"
+        },
+        {
+            "titulo": "Natal Beneficente",
+            "data": "24/12/2024",
+            "horario": "20:00",
+            "preco": 60,
+            "url_imagem": "https://www.instagram.com/logo-xpto.png"
+        }
+    ],
+    "usuarios": [
+        {
+            "nome": "Andreia",
+            "email": "deia@deia.com",
+            "senha": "123456"
+        },
+        {
+            "nome": "Carolina",
+            "email": "carol@carol.com",
+            "senha": "123456"
+        },
+        {
+            "nome": "Gabriel",
+            "email": "gabriel@gabriel",
+            "senha": "123456"
+        },
+        {
+            "nome": "Karolina",
+            "email": "karol@karol",
+            "senha": "123456"
+        },
+        {
+            "nome": "Ronaldo",
+            "email": "ronaldo@ronaldo.com",
+            "senha": "123456"
+        }
+    ]
+}
