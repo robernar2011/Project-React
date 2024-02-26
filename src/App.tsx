@@ -11,9 +11,7 @@ import './index.css'
 
 
 function App() {
-
   return (
-
     <BrowserRouter>
      <Routes>
       <Route path="/homepage" element={<Homepage/>}/>
@@ -24,7 +22,7 @@ function App() {
       <Route path="/event/:id" element={<InfosEvent/>}/>
      </Routes>
     </BrowserRouter>
-  )
+  );
 }
 
-export default App
+export default App;
