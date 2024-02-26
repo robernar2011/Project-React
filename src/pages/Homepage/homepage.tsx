@@ -1,9 +1,11 @@
+
 import { useState, useEffect } from "react"
 import axios from "axios"
 import Card from "../../components/components/Card/card"
 import Footer from "../../components/components/Footer/footer"
 import Header from "../../components/components/Header/header"
 import { Container, Title,  EventsLista, Events } from "./homepage.styles"
+
 
 function Homepage() {
 
