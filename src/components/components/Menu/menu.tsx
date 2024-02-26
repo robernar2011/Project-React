@@ -29,11 +29,20 @@ function Menu() {
     return (
             <MenuContainer>
                 <MenuList>
+                <MenuItem>
+                        <MenuLink to="/homepage">Homepage</MenuLink>
+                    </MenuItem>
                     <MenuItem>
-                        <MenuLink to="/">Login</MenuLink>
+                        <MenuLink to="/login">Login</MenuLink>
                     </MenuItem>
                     <MenuItem>
                         <MenuLink to="/contact">Contato</MenuLink>
+                    </MenuItem>
+                    <MenuItem>
+                        <MenuLink to="/history">Nossa História</MenuLink>
+                    </MenuItem>
+                    <MenuItem>
+                        <MenuLink to="/about">Sobre nós</MenuLink>
                     </MenuItem>
                 </MenuList>
             </MenuContainer>
