@@ -1,3 +1,4 @@
+
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./index.css";
 import Homepage from "./pages/Homepage/homepage.tsx";
@@ -6,6 +7,10 @@ import Contact from "./pages/Contact/contact.tsx";
 import About from "./pages/About/about.tsx";
 import History from "./pages/History/history.tsx";
 import InfosEvent from "./pages/InfosEvent/infosEvent.tsx";
+
+
+import './index.css'
+
 
 function App() {
   return (

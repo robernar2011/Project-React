@@ -30,29 +30,32 @@
   ],
   "user": [
     {
-      "nome": "Andreia",
-      "email": "deia@deia.com",
-      "senha": "123456"
+
+        "nome": "Andreia",
+        "email": "deia@deia.com",
+        "senha": "123456"
     },
     {
-      "nome": "Carolina",
-      "email": "carol@carol.com",
-      "senha": "123456"
+        "nome": "Carolina",
+        "email": "carol@carol.com",
+        "senha": "123456"
     },
     {
-      "nome": "Gabriel",
-      "email": "gabriel@gabriel",
-      "senha": "123456"
+        "nome": "Gabriel",
+        "email": "gabriel@gabriel",
+        "senha": "123456"
     },
     {
-      "nome": "Karolina",
-      "email": "karol@karol",
-      "senha": "123456"
+        "nome": "Karolina",
+        "email": "karol@karol",
+        "senha": "123456"
     },
     {
-      "nome": "Ronaldo",
-      "email": "ronaldo@ronaldo.com",
-      "senha": "123456"
+        "nome": "Ronaldo",
+        "email": "ronaldo@ronaldo.com",
+        "senha": "123456"
     }
-  ]
+]
 }
+
+

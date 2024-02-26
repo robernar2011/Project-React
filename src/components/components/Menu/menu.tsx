@@ -25,6 +25,7 @@ const MenuLink = styled(Link)`
   }
 `;
 function Menu() {
+
   return (
     <MenuContainer>
       <MenuList>
@@ -46,5 +47,6 @@ function Menu() {
       </MenuList>
     </MenuContainer>
   );
+
 }
 export default Menu;
