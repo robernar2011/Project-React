@@ -1,7 +1,7 @@
 # Projeto Final React em Grupo
 
 <p>
-  Este projeto é dedicado a pratica e avaliação final do módulo Framework de Front End em React. <br />
+  Este projeto é dedicado à pratica e avaliação final do módulo Framework de Front End em React. <br />
   Ministrada pelos professores <a href="roosevelt.franklin81@gmail.com">Roosevelt Carvalho Franklin Santos</a> e <a href="mailto:railantb@gmail.com">Railan Teixeira Barbosa</a>. <br />
   Ada - Front End Estático - Start Coding - Turma 1025 - Grupo 04 <br />
 </p>
@@ -25,13 +25,13 @@
 Clonar o projeto com o comando abaixo:
 
 ```sh
-git clone https://github.com/roofranklin/casa-de-eventos-react.git
+git clone https://github.com/robernar2011/Project-React.git
 ```
 
 Entrar na pasta do projeto
 
 ```sh
-cd casa-de-eventos-react
+cd Project-React
 ```
 
 Instalar as dependencias
@@ -67,5 +67,3 @@ json-server --watch eventos.json
 - <a href="mailto:g.pereira@sap.com">Gabriel Santos Pereira</a>
 - <a href="mailto:karolina.azevedo@sap.com">Karolina Azevedo</a>
 - <a href="mailto:ronaldo.bernardo@sap.com">Ronaldo Bernardo</a>
-
-

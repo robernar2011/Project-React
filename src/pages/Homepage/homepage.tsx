@@ -28,7 +28,7 @@ function Homepage() {
         <>
         <Header/>
         <Container>
-        <Title>Bem Vindxs ao Instituto G4</Title>
+        <Title>Bem-vindes ao Instituto G4</Title>
         <Events>
             <EventsLista>
             {events.map((event, index) => (
