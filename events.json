@@ -30,6 +30,7 @@
   ],
   "user": [
     {
+
         "nome": "Andreia",
         "email": "deia@deia.com",
         "senha": "123456"
@@ -56,4 +57,5 @@
     }
 ]
 }
+
 
