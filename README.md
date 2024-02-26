@@ -69,10 +69,3 @@ json-server --watch eventos.json
 - <a href="mailto:ronaldo.bernardo@sap.com">Ronaldo Bernardo</a>
 
 
-
-### <a href="mailto:ronaldo.bernardo@sap.com">Ronaldo Bernardo</a>
-
-- ?
-- ?
-- ?
-
