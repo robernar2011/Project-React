@@ -57,7 +57,7 @@ npm run dev
 Digitar o comando abaixo para rodar o mock local
 
 ```sh
-json-server --watch eventos.json
+json-server --watch events.json
 ```
 
 ## Autoria
